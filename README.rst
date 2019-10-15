@@ -17,7 +17,7 @@ Minimal, modern embedded V8 for Python.
 Features
 --------
 
-* Unicode support
+* Unicode supported
 * Thread safe
 * Re-usable contexts
 * Binary object is Python agnostic
